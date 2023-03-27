@@ -1,0 +1,15 @@
+kernel line : count latency dram_traffic smem_bk_conflicts smem_warp gmem_access_generated gmem_warp exposed_latency warp_divergence
+example.1.sm_52.ptx 25 : 1000 34179 0 0 0 0 0 0 0 
+example.1.sm_52.ptx 26 : 1000 34195 0 0 0 0 0 0 0 
+example.1.sm_52.ptx 27 : 1000 6129 0 0 0 0 0 0 0 
+example.1.sm_52.ptx 28 : 1000 7168 0 0 0 0 0 0 0 
+example.1.sm_52.ptx 29 : 1000 0 0 0 0 0 0 0 0 
+example.1.sm_52.ptx 31 : 1000 7290 0 0 0 0 0 0 0 
+example.1.sm_52.ptx 32 : 1000 10253 0 0 0 0 0 0 0 
+example.1.sm_52.ptx 33 : 1000 10241 0 0 0 0 0 0 0 
+example.1.sm_52.ptx 34 : 1000 183419 0 0 0 1000 1000 0 0 
+example.1.sm_52.ptx 35 : 1000 7061 0 0 0 0 0 0 0 
+example.1.sm_52.ptx 36 : 1000 7083 0 0 0 0 0 0 0 
+example.1.sm_52.ptx 37 : 1000 10068 0 0 0 0 0 0 0 
+example.1.sm_52.ptx 38 : 1000 4101 0 0 0 1000 1000 0 0 
+example.1.sm_52.ptx 41 : 1000 6004 0 0 0 0 0 0 0 
